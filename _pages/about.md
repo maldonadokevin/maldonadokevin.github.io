@@ -27,4 +27,4 @@ I'm building recommendation systems and Retrieval Augmented Generation features 
 Built the Natural Language Processing pipeline responsible for handling over 1 million searches per minute at [MercadoLibre](https://www.mercadolibre.com/)
 
 ## Other stuff
-- I'm organizing [IGLA 2024](https://igla2024ba.org) an international LGBT+ water polo tournament
+- I'm organizing [IGLA 2024 Buenos Aires](https://igla2024ba.org), the world championship for aquatic sports in the LGBTIQ+ community.
