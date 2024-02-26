@@ -12,4 +12,10 @@ nav: true
         View from Refugio Otto Meiling, Cerro Tronador, Bariloche, Argentina.
     </div>
 </div>
+<div class="row">
+        {% include figure.liquid loading="eager" path="assets/img/photos/huemul.jpeg" title="A huemul (endangered species) in El Chaltén, Argentina." class="img-fluid rounded z-depth-1" %}
+    <div class="caption">
+        A huemul (endangered species) in El Chaltén, Argentina.
+    </div>
+</div>
 
