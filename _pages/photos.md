@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Photos
+title: photos
 permalink: /photos/
 description: Some photos that I took and like
 nav: true
