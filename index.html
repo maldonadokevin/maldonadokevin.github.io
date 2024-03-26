@@ -21,25 +21,29 @@
                 line-height: 1.2
             }
 
-            aside {
-                padding-left: 0.5rem;
-                margin-left: 0.5rem;
-                float: right;
+            header {
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: space-between;
+            }
+
+            span.description {
+                max-width: 20em;
             }
         </style>
     </head>
     <body>
         <header>
-            <h1>Kevin Maldonado</h1>
-            <aside><img src="static/profile_pic.jpg"></aside>
+            <span class="description">
+                <h1>Kevin Maldonado</h1>
+                <p>Doing software and math from Buenos Aires, Argentina.</p>
+                <dl>
+                    <dt>LinkedIn</dt>
+                    <dd><a href="https://www.linkedin.com/in/kevin-maldonado/">/in/kevin-maldonado/</a></dd>
+                </dl>
+            </span>
+            <img src="static/profile_pic.jpg">
         </header>
-        <p>Doing software and math from Buenos Aires, Argentina.</p>
-        <hr>
-        <h2>Contact</h2>
-        <dl>
-            <dt>LinkedIn</dt>
-            <dd><a href="https://www.linkedin.com/in/kevin-maldonado/">/in/kevin-maldonado/</a></dd>
-        </dl>
 		<hr>
         <h2>Recent work</h2>
         <p>
